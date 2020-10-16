@@ -1,2 +1,2 @@
 # JSprojects
- 15 JavaScript projects for beginer  
+ 15 JavaScript projects for beginners  
